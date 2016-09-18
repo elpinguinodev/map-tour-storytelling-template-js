@@ -11,8 +11,8 @@ APPCFG = {
 	HEADER_LOGO_URL: "resources/icons/esri-logo.png",
 	HEADER_LOGO_TARGET: "http://www.esri.com",
 	// Header top right link
-	HEADER_LINK_TEXT: "A story map",
-	HEADER_LINK_URL: "http://storymaps.arcgis.com",
+	HEADER_LINK_TEXT: "Christchurch Street Art",
+	HEADER_LINK_URL: "http://elpinguinodev.github.io/maptour",
 	// Control display of Facebook and Twitter links
 	HEADER_SOCIAL: {
 		facebook: true,
